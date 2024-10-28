@@ -27,6 +27,7 @@
 	"dependencies": {
 		"@vercel/postgres": "^0.10.0",
 		"postgres": "^3.4.4",
+		"vercel": "^37.12.1",
 		"vite-plugin-mkcert": "^1.17.5"
 	}
 }
